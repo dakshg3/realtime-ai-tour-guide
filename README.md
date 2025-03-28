@@ -2,6 +2,12 @@
 
 An interactive application providing a virtual tour guide experience for exploring India's rich culture, destinations, and traditions.
 
+## Technology
+
+This application uses the OpenAI Realtime API with WebRTC for voice interaction, React for the frontend, and tailored AI responses specific to Indian tourism and culture.
+Using - gpt-4o-realtime-preview-2024-12-17
+
+
 ## Features
 
 - **Virtual Tour Guide**: Engage with an AI tour guide specialized in Indian tourism
@@ -39,7 +45,4 @@ This should start the India Tour Guide application on [http://localhost:3000](ht
 4. The guide will listen and respond after you pause for 2 seconds
 5. Ask about local cuisine, festivals, historical sites, or travel recommendations
 
-## Technology
-
-This application uses the OpenAI Realtime API with WebRTC for voice interaction, React for the frontend, and tailored AI responses specific to Indian tourism and culture.
 
