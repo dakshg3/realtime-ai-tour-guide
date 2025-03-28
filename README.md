@@ -12,8 +12,6 @@ Using - gpt-4o-realtime-preview-2024-12-17
 
 - **Virtual Tour Guide**: Engage with an AI tour guide specialized in Indian tourism
 - **Voice Interaction**: Ask questions about India's popular destinations, culture, and travel tips
-- **Visual Theming**: Dark modern UI with Indian-inspired design elements
-- **Color Palettes**: Explore traditional Indian color schemes for inspiration
 
 ## Installation and usage
 
